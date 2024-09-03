@@ -75,4 +75,4 @@ A comprehensive contact management application. Key features include:
 ## Contact Information
 If you have any questions or suggestions, feel free to contact me at:
 - **Email**: rishikeshdarunte55@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/rishikesh-darunte-480269229/))
+- **LinkedIn**: [https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/rishikesh-darunte-480269229/]
