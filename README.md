@@ -62,11 +62,11 @@ A comprehensive contact management application. Key features include:
    ```
 
 2. **Run Individual Projects**:
-   - For the To-Do List application: `python todo_list.py`
-   - For the Calculator: `python calculator.py`
-   - For the Password Generator: `python password_generator.py`
-   - For the Rock-Paper-Scissors Game: `python rock_paper_scissors.py`
-   - For the Contact Book: `python contact_book.py`
+   - For the To-Do List application: `todo_app.py`
+   - For the Calculator: `calculator.py`
+   - For the Password Generator: `PasswordGenerator.py`
+   - For the Rock-Paper-Scissors Game: `rock_paper_scissors.py`
+   - For the Contact Book: `ContactManager.py`
 
 3. **Requirements**:
    - Ensure you have Python installed on your system.
