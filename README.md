@@ -1,10 +1,5 @@
 # Codesoft-Internship
 Python Development Internship
-Here's a well-structured README file for your GitHub repository:
-
----
-
-# Internship Projects Repository
 
 Welcome to the repository of projects completed during my Python development internship. Each project demonstrates my understanding and application of core programming concepts. Below is an overview of each project.
 
